@@ -60,8 +60,7 @@ Contaminated water can cause serious health issues. Using data science, we aim t
 ## 🧠 Author
 
 **Aditya Rawat**  
-📫 [adityarawat.online@gmail.com](mailto:adityarawat.online@gmail.com)  
-🌐 [Portfolio Website](https://adityarawat.online)  
+📫 [adityarawat.online@gmail.com](mailto:adityarawat.online@gmail.com)    
 🔗 [LinkedIn](#) | [GitHub](#)
 
 ## 💡 License
